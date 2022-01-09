@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/imhilla/auth-with-jwt-mongoose/issues"
   },
-  "homepage": "https://github.com/imhilla/auth-with-jwt-mongoose#readme"
+  "homepage": "https://github.com/imhilla/auth-with-jwt-mongoose#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
